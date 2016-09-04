@@ -1,0 +1,6 @@
+c:\users\kathy\documents\visual studio 2015\Projects\WeatherService\WeatherService\bin\WeatherService.dll.config
+c:\users\kathy\documents\visual studio 2015\Projects\WeatherService\WeatherService\bin\WeatherService.dll
+c:\users\kathy\documents\visual studio 2015\Projects\WeatherService\WeatherService\bin\WeatherService.pdb
+c:\users\kathy\documents\visual studio 2015\Projects\WeatherService\WeatherService\obj\Debug\WeatherService.dll
+c:\users\kathy\documents\visual studio 2015\Projects\WeatherService\WeatherService\obj\Debug\WeatherService.pdb
+C:\Users\Kathy\Documents\Visual Studio 2015\Projects\WeatherService\WeatherService\obj\Debug\WeatherService.csprojResolveAssemblyReference.cache
